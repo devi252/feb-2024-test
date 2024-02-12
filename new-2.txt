@@ -1,4 +1,0 @@
-this is a new-2.txt file
-
-1. good
-2. bad
